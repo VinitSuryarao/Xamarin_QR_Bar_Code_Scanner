@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\bin\Debug\netstandard2.0\BarCode_QRCode_Scanner.deps.json
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\bin\Debug\netstandard2.0\BarCode_QRCode_Scanner.dll
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\bin\Debug\netstandard2.0\ref\BarCode_QRCode_Scanner.dll
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\bin\Debug\netstandard2.0\BarCode_QRCode_Scanner.pdb
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\BarCode_QRCode_Scanner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\BarCode_QRCode_Scanner.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\BarCode_QRCode_Scanner.AssemblyInfo.cs
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\BarCode_QRCode_Scanner.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\BarCode_QRCode_Scanner.dll
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\ref\BarCode_QRCode_Scanner.dll
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\BarCode_QRCode_Scanner.pdb
+E:\Study\Code\Xamarin\BarCode_QRCode_Scanner\BarCode_QRCode_Scanner\obj\Debug\netstandard2.0\BarCode_QRCode_Scanner.csproj.AssemblyReference.cache
